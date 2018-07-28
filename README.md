@@ -6,7 +6,7 @@
 ## TO GET STARTED
 
 ```sh 
-   `npm install`
+   npm install
 ```
 
 ## SAMPLE IMAGES FOR THE WEBSITE
