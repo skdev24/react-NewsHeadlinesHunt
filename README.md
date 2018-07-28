@@ -1,7 +1,7 @@
 
 ## API USED 
 
-[News API](https://newsapi.org/)
+[`News API`](https://newsapi.org/)
 
 ## TO GET STARTED
 
